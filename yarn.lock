@@ -4539,11 +4539,9 @@ image-size@~0.5.0:
   version "0.5.5"
   resolved "https://registry.yarnpkg.com/image-size/-/image-size-0.5.5.tgz#09dfd4ab9d20e29eb1c3e80b8990378df9e3cb9c"
 
-immer@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-0.8.4.tgz#84fe905c3fbe7bde3ecf6472632261abae3a09c8"
-  dependencies:
-    cpx "^1.5.0"
+immer@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
 
 import-from@^2.1.0:
   version "2.1.0"
